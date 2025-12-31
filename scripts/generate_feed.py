@@ -17,7 +17,7 @@ import argparse
 import logging
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from html import unescape
 from typing import List, Optional
 from urllib.parse import urljoin, urlparse
@@ -47,56 +47,81 @@ def fetch(url: str, timeout: int = 15) -> Optional[str]:
 def find_announcement_links(list_html: str, base_url: str) -> List[str]:
     soup = BeautifulSoup(list_html, "html.parser")
 
-    candidates = []
+    links = []
+    seen = set()
+
+    # TİTCK list sayfasında duyuru linkleri genellikle belirli bir yapıdadır
+    # Örnek: /duyuru/baslik-tarih-id
+    # Ama bazıları farklı olabilir. Biz yine de geniş tarayıp sonra filtreleyelim.
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
-        # duyuru ile ilgili linkleri önceliklendir
-        if "duyuru" in href.lower() or "/duyurular" in href.lower() or "/duyuru?" in href.lower():
-            full = urljoin(base_url, href)
-            candidates.append((full, a.get_text(strip=True)))
+        full = urljoin(base_url, href)
 
-    if not candidates:
-        for selector in ["ul li a", "ol li a", "table a", "div a", "article a"]:
-            for a in soup.select(selector):
-                href = a.get("href")
-                if not href:
-                    continue
-                full = urljoin(base_url, href)
-                candidates.append((full, a.get_text(strip=True)))
-
-    seen = set()
-    links = []
-    for link, _txt in candidates:
-        if link in seen:
+        if full in seen:
             continue
-        seen.add(link)
-        if link.startswith("javascript:") or link.startswith("#"):
-            continue
-        links.append(link)
 
-    logging.info("Bulunan potansiyel duyuru sayısı: %d", len(links))
+        # Filtreleme:
+        # 1. 'duyuru' içermeli
+        # 2. '?page=' (paginasyon) içermemeli
+        # 3. 'duyuru?tab' gibi sekmeleri içermemeli
+        # 4. javascript veya anchor olmamalı
+        if "duyuru" in href.lower() or "/duyuru/" in href:
+            if "?page=" in href or "javascript:" in href or href.startswith("#"):
+                continue
+
+            # Duyuru sayfaları genellikle /duyuru/ ile başlar ve devamında başlık gelir
+            # Liste sayfası (/duyuru) ise filtrelenmeli
+            path = urlparse(full).path
+            if path == "/duyuru" or path == "/duyuru/":
+                continue
+
+            seen.add(full)
+            links.append(full)
+
+    logging.info("Bulunan gerçek duyuru sayısı: %d", len(links))
     return links
+
+def clean_xml_string(s: str) -> str:
+    """XML için geçersiz olan kontrol karakterlerini temizler."""
+    if not s:
+        return ""
+    # XML 1.0 için yasal karakterler: #x9 | #xA | #xD | [#x20-#xD7FF] | [#xE000-#xFFFD] | [#x10000-#x10FFFF]
+    # Kontrol karakterlerini (tab, newline, cr hariç) çıkaran regex
+    return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', s)
 
 def extract_from_announcement(html: str, page_url: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
 
+    # Başlık tespiti
     title = None
-    for tag in ("h1", "h2", "h3"):
-        t = soup.find(tag)
-        if t and t.get_text(strip=True):
-            title = t.get_text(strip=True)
-            break
+    title_el = soup.select_one(".page-content-title h1")
+    if title_el:
+        title = title_el.get_text(strip=True)
+    
+    if not title:
+        for tag in ("h1", "h2", "h3"):
+            t = soup.find(tag)
+            if t and t.get_text(strip=True):
+                title = t.get_text(strip=True)
+                break
+    
     if not title and soup.title and soup.title.string:
         title = soup.title.string.strip()
     if not title:
         title = "Başlıksız duyuru"
 
+    # Tarih tespiti
     pubdate = None
-    time_tag = soup.find("time")
-    if time_tag and time_tag.get("datetime"):
-        pubdate = time_tag.get("datetime")
-    elif time_tag and time_tag.get_text(strip=True):
-        pubdate = time_tag.get_text(strip=True)
+    date_el = soup.select_one(".content-text .date") or soup.select_one(".date")
+    if date_el:
+        pubdate = date_el.get_text(strip=True)
+    
+    if not pubdate:
+        time_tag = soup.find("time")
+        if time_tag and time_tag.get("datetime"):
+            pubdate = time_tag.get("datetime")
+        elif time_tag and time_tag.get_text(strip=True):
+            pubdate = time_tag.get_text(strip=True)
 
     if not pubdate:
         candidates = soup.find_all(attrs={"class": re.compile(r"(tarih|date|posted|time)", re.I)})
@@ -106,50 +131,57 @@ def extract_from_announcement(html: str, page_url: str) -> dict:
             if txt and (re.search(r"\d{4}[-/\.]\d{1,2}[-/\.]\d{1,2}", txt) or re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", txt)):
                 pubdate = txt
                 break
-        if not pubdate:
-            smalls = soup.find_all("small")
-            for s in smalls:
-                txt = s.get_text(" ", strip=True)
-                if txt and (re.search(r"\d{4}[-/\.]\d{1,2}[-/\.]\d{1,2}", txt) or re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", txt)):
-                    pubdate = txt
-                    break
 
-    content_html = None
+    # İçerik tespiti
+    content_html_tag = None
     selectors = [
+        ".content-text",
         "article",
         "div.duyuru-content",
         "div.content",
         "div.icerik",
         "div#content",
         "div.panel-body",
-        "div.container",
+        "#pageContent",
         "main"
     ]
     for sel in selectors:
         el = soup.select_one(sel)
         if el and el.get_text(strip=True):
-            content_html = el
+            content_html_tag = el
             break
-    if not content_html:
-        content_html = soup.body or soup
+    
+    if not content_html_tag:
+        content_html_tag = soup.body or soup
 
-    for bad in content_html.select("script, style, nav, form, footer, header"):
+    # Çöpleri temizle (tarih divini içerikten çıkarabiliriz çünkü RSS'de zaten pubDate var)
+    for bad in content_html_tag.select("script, style, nav, form, footer, header, .date"):
         bad.decompose()
 
-    description = "".join(str(c) for c in content_html.contents).strip()
+    # İçeriği stringe çevir
+    description = "".join(str(c) for c in content_html_tag.contents).strip()
     description = unescape(description)
+    description = clean_xml_string(description)
 
     pubdate_rfc = ""
     if pubdate:
         try:
-            dt = dateparser.parse(pubdate, dayfirst=True)
+            # TİTCK bazen departman adını tarihin yanına yazıyor: "30.12.2025 - Denetim Hizmetleri"
+            # Sadece tarih kısmını almaya çalışalım
+            date_match = re.search(r"(\d{1,2}\.\d{1,2}\.\d{4})", pubdate)
+            if date_match:
+                dt_str = date_match.group(1)
+                dt = datetime.strptime(dt_str, "%d.%m.%Y")
+            else:
+                dt = dateparser.parse(pubdate, dayfirst=True)
+            
             if dt is not None:
                 pubdate_rfc = email.utils.format_datetime(dt)
         except Exception:
             pubdate_rfc = ""
 
     return {
-        "title": title,
+        "title": clean_xml_string(title),
         "link": page_url,
         "description": description,
         "pubDate": pubdate_rfc
@@ -161,7 +193,7 @@ def build_rss(channel_title: str, channel_link: str, channel_desc: str, items: L
     ET.SubElement(channel, "title").text = channel_title
     ET.SubElement(channel, "link").text = channel_link
     ET.SubElement(channel, "description").text = channel_desc
-    ET.SubElement(channel, "lastBuildDate").text = email.utils.format_datetime(datetime.utcnow())
+    ET.SubElement(channel, "lastBuildDate").text = email.utils.format_datetime(datetime.now(timezone.utc))
 
     for it in items:
         item = ET.SubElement(channel, "item")
@@ -197,8 +229,23 @@ def main():
         sys.exit(1)
 
     items = []
+    binary_extensions = (".pdf", ".docx", ".xlsx", ".xls", ".zip", ".jpg", ".png")
+    
     for link in links[: args.max_items]:
         logging.info("İşleniyor: %s", link)
+        
+        # Eğer link bir dosya ise (pdf, xlsx vb), direkt link bilgisini alalım
+        parsed_link = urlparse(link)
+        if any(parsed_link.path.lower().endswith(ext) for ext in binary_extensions):
+            filename = parsed_link.path.split("/")[-1]
+            items.append({
+                "title": f"Dosya: {filename}",
+                "link": link,
+                "description": f"Bu duyuru bir dosya bağlantısıdır: <a href='{link}'>{filename}</a>",
+                "pubDate": email.utils.format_datetime(datetime.now(timezone.utc))
+            })
+            continue
+
         html = fetch(link)
         if not html:
             logging.warning("Duyuru sayfası alınamadı: %s", link)
