@@ -1,8 +1,6 @@
 name: Update TİTCK feed
 
 on:
-  push:
-    branches: [ main ]
   # Saatlik olarak çalıştır (UTC)
   schedule:
     - cron: '0 * * * *'
