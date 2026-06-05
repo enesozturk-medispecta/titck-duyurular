@@ -4,7 +4,14 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Fri, 05 Jun 2026 05:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 09:57:34 +0000</lastBuildDate>
+    <item>
+      <title>İLAÇ FİRMALARININ DİKKATİNE</title>
+      <link>https://titck.gov.tr/duyuru/ilac-firmalarinin-dikkatine-05062026103552</link>
+      <guid>https://titck.gov.tr/duyuru/ilac-firmalarinin-dikkatine-05062026103552</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 -0000</pubDate>
+      <description>&lt;p&gt;&lt;p&gt;11/12/2021 tarih ve 31686 sayı ile yayımlanan “Beşeri Tıbbi Ürünler Ruhsatlandırma Yönetmeliği”ne uygun olarak, Türkiye İlaç ve Tıbbi Cihaz Kurumu’na yapılan beşeri tıbbi ürün ruhsat başvurularından Kurum tarafindan yapılan inceleme sonucunda ön değerlendirmesi uygun bulunan başvurular için takvimlendirme süreçlerine ilişkin usul ve esasları belirleyen “Beşeri Tıbbi Ürünlerin Ruhsatlandırma Başvurularının Takvimlendirme Süreçlerine İlişkin Kılavuz” idari gereklilikler doğrultusunda güncellenerek yayımlanmıştır.&lt;/p&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kamuoyunun Dikkatine</title>
       <link>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine-02062026150439</link>
@@ -688,17 +695,10 @@ mahiyetinde olacağından, ilgililere ayrıca tebligat yapılmayacaktır.&lt;b&g
       <description>&lt;p&gt;&lt;p&gt;Malumlarınız olduğu üzere Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Yönetmelik 27 Mayıs 2023 tarih ve 32203 sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiş, mezkûr Yönetmeliğe ilişkin “Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik” ise 05 Haziran 2025 tarihli ve 32921 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiştir.&lt;/p&gt;&lt;p&gt;Bununla birlikte, klinik araştırmalarda gerçekleştirilen güvenlilik bildirimlerinde uluslararası standartlara uyum sağlanması amacıyla, Klinik Araştırmalar Modülü bünyesinde bir alt modül olarak Ulusal SUSAR Modülü geliştirilmiş; bu doğrultuda “Klinik Araştırmalarda Güvenlilik Bildirimlerine İlişkin Kılavuz” güncellenmiştir.&lt;/p&gt;&lt;p&gt;Anılan gelişmeler doğrultusunda, “Türkiye İlaç ve Tıbbi Cihaz Kurumu Klinik Araştırmalar Daire Başkanlığına Yapılan Klinik Araştırma Başvurularına İlişkin Kılavuz” ile “Etik Kurullara Yapılan Klinik Araştırma Başvurularına İlişkin Kılavuz”da da güncelleme ihtiyacı doğmuştur. Bu kapsamda güncellenen Kılavuzlar 15.05.2026 tarihi itibarıyla yayımlanarak yürürlüğe girmiştir.&lt;/p&gt;&lt;p&gt;Söz konusu kılavuzlara &lt;a href=&quot;https://www.titck.gov.tr/faaliyetalanlari/ilac/klinik-arastirmalar&quot; target=&quot;_blank&quot;&gt;https://www.titck.gov.tr/faaliyetalanlari/ilac/klinik-arastirmalar&lt;/a&gt; adresinde yer alan “Mevzuat” başlığı altından ulaşılabilir.&lt;/p&gt;&lt;p&gt;İlgililere önemle duyurulur.&lt;/p&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Klinik Araştırma Taraflarının Dikkatine</title>
-      <link>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine-20052026111432</link>
-      <guid>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine-20052026111432</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 -0000</pubDate>
-      <description>&lt;p&gt;&lt;p&gt;Klinik araştırma güvenlilik bildirimlerinde uluslararası standartlara uyum sağlanması amacıyla Kurumumuz tarafından Klinik Araştırmalar Modülünün bir alt modülü olarak ulusal “SUSAR Modülü” geliştirilmiştir. Bu modül ile ülkemizde yürütülen klinik araştırmalarda meydana gelen bireysel güvenlilik raporlarının alınması, kaydedilmesi, ulusal veri tabanı oluşturulması ve verilerin analiz edilebilmesi sağlanacaktır.&lt;/p&gt;&lt;p&gt;Ulusal SUSAR Modülü, ICH E2B(R3): Electronic Transmission of Individual Case Safety Reports [Bireysel Vaka Güvenlilik Raporlarının Elektronik İletimi] ve AB Direktifi 536/2014 gereklilikleri doğrultusunda geliştirilmiştir. Bu kapsamda “Klinik Araştırmalarda Güvenlilik Bildirimlerine İlişkin Kılavuz” güncellenmiş ve 15.05.2026 tarihinde yayımlanarak yürürlüğe girmiştir.&lt;/p&gt;&lt;p&gt;Ülkemizde yürütülen klinik araştırmalarda meydana gelen SUSAR’lara ilişkin bildirimler 01.07.2026 tarihine kadar XML formatında “SUSAR Modülü” üzerinden sunulabileceği gibi pdf formatında CIOMS formu kullanılarak “Klinik Araştırmalar Modülü” üzerinden de sunulabilecektir. 01.07.2026 tarihi itibariyle bildirimler yalnızca “SUSAR Modülü” üzerinden XML formatında kabul edilecektir. &lt;/p&gt;&lt;p&gt;Yurt dışında meydana gelen SUSAR’lara ilişkin bildirim süreçlerinin kesintisiz ve kontrollü şekilde yürütülmesinin sağlanması amacıyla söz konusu bildirimlerin 6 aylık periyotlarla sıralı listeler halinde Klinik Araştırmalar Modülü üzerinden yapılması gerekmektedir. Ekte yer alan sıralı liste örneğinin; ilgili tüm alanlar eksiksiz doldurularak, İngilizce dilinde, her bir araştırma ürünü için ayrı ayrı hazırlanması gerekmektedir. Hazırlanan listeler, e-posta konu kısmında araştırma ürünü adı ve tarih aralığı belirtilerek kagb@titck.gov.tr adresine iletilmelidir. Bununla birlikte; söz konusu listelerin, EBS-ESY Klinik Araştırmalar Modülü üzerinden “Güvenlilik Bildirimi: Ciddi Beklenmeyen Şüpheli Advers Reaksiyon (SUSAR) 6 aylık Sıralı Liste Bildirimi” başvuru doküman tipi seçilerek, pdf formatında, Kuruma iletilmesi gerekmektedir. Bu süreçte her bir araştırma ürünü için tek bir bildirim yapılması yeterlidir.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Dosya: GMP Sertifikası Verilen Firma Duyuru Listesi 03.06.2026 (1)_75ec9ce3-21bb-425b-a018-0761a19b492e.xlsx</title>
       <link>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 03.06.2026 (1)_75ec9ce3-21bb-425b-a018-0761a19b492e.xlsx</link>
       <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 03.06.2026 (1)_75ec9ce3-21bb-425b-a018-0761a19b492e.xlsx</guid>
-      <pubDate>Fri, 05 Jun 2026 05:20:47 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 09:57:34 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 03.06.2026 (1)_75ec9ce3-21bb-425b-a018-0761a19b492e.xlsx'&gt;GMP Sertifikası Verilen Firma Duyuru Listesi 03.06.2026 (1)_75ec9ce3-21bb-425b-a018-0761a19b492e.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
