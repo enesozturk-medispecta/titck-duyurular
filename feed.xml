@@ -4,7 +4,104 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Tue, 01 Sep 2026 13:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:42:25 +0000</lastBuildDate>
+    <item>
+      <title>KAMUOYUNUN DİKKATİNE</title>
+      <link>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine</link>
+      <guid>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine</guid>
+      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
+&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
+&lt;div class=&quot;row g-4&quot;&gt;
+&lt;!-- Sol Menü (Sidebar) --&gt;
+&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
+&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
+&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
+&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
+&lt;span&gt;Önemli Duyurular&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
+&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Geri Çekme RSS Kutusu --&gt;
+&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
+&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
+&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
+&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
+&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
+&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
+                                &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Sağ İçerik Alanı --&gt;
+&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
+&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
+
+&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
+&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
+&lt;div class=&quot;v2-detail-header&quot;&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;KAMUOYUNUN DİKKATİNE&lt;/h1&gt;
+&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
+&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
+&lt;span class=&quot;meta-pill&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
+                                            01.09.2026
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
+&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
+                                            KURUM BAŞKANI
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
+&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~1 dk okuma süresi
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
+&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
+&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
+&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
+&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
+&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Duyuru İçeriği --&gt;
+&lt;div class=&quot;v2-detail-body&quot;&gt;
+&lt;p&gt;SON ZAMANLARDA KURUMUMUZ YÖNETİCİLERİNİN VE ÇALIŞANLARININ ADLARI KULLANILARAK SAĞLIK SEKTÖRÜNDE FAALİYET GÖSTEREN KİŞİLERDEN VE KURULUŞLARDAN YARDIM, DESTEK, BAĞIŞ GİBİ ADLARLA PARA İSTENDİĞİ MÜŞAHEDE EDİLMEKTEDİR.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;KURUMUMUZCA HİÇBİR KİŞİ VE KURULUŞTAN TELEFON, E-POSTA, SOSYAL MEDYA VB. İLETİŞİM KANALLARI ÜZERİNDEN PARA İSTENMESİNİN SÖZ KONUSU OLAMAYACAĞI AÇIKTIR.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;BU TÜR DOLANDIRICILIK GİRİŞİMLERİ HAKKINDA KURUMUMUZCA GEREKEN HUKUKİ İŞLEMLER VE SUÇ DUYURULARI YAPILMAKTADIR.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;MAĞDURİYET YAŞANMAMASI İÇİN BU TÜR İDDİA VE TALEPLERE İTİBAR EDİLMEMESİ, BÖYLE DURUMLARDA ADLİ MAKAMLARIN VE KURUMUMUZUN BİLGİLENDİRİLMESİ ÖNEM ARZ ETMEKTEDİR.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;KAMUOYUNA ÖNEMLE DUYURULUR.&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
+&lt;!-- Ek Dokümanlar Tablosu --&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında</title>
       <link>https://titck.gov.tr/duyuru/ilac-fiyatlandirma-ve-pazar-analiz-sistemi-ifpas-hakkinda</link>
@@ -23,7 +120,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -226,7 +323,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -393,7 +490,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -607,7 +704,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -829,7 +926,7 @@ testlerini gerçekleştirmeleri önemle rica olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -940,7 +1037,7 @@ seçilmesi önem arz etmektedir. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1987,7 +2084,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -2085,7 +2182,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -2381,7 +2478,7 @@ teslim edilecektir.) &lt;span style=&quot;background:yellow;mso-highlight:yellow
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2868&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -2462,107 +2559,10 @@ teslim edilecektir.) &lt;span style=&quot;background:yellow;mso-highlight:yellow
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>EDQM 2028–2031 Orta Vadeli Stratejisine Katkı Sağlamak Üzere Paydaş Anketi</title>
-      <link>https://titck.gov.tr/duyuru/edqm-2028-2031-orta-vadeli-stratejisine-katki-saglamak-uzere-paydas-anketi-17082026234545</link>
-      <guid>https://titck.gov.tr/duyuru/edqm-2028-2031-orta-vadeli-stratejisine-katki-saglamak-uzere-paydas-anketi-17082026234545</guid>
-      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
-&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
-&lt;div class=&quot;row g-4&quot;&gt;
-&lt;!-- Sol Menü (Sidebar) --&gt;
-&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
-&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
-&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2867&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
-&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
-&lt;span&gt;Önemli Duyurular&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
-&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;!-- Geri Çekme RSS Kutusu --&gt;
-&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
-&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
-&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
-&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
-&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
-&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
-                                &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Sağ İçerik Alanı --&gt;
-&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
-&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
-
-&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
-&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
-&lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;EDQM 2028–2031 Orta Vadeli Stratejisine Katkı Sağlamak Üzere Paydaş Anketi&lt;/h1&gt;
-&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
-&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
-&lt;span class=&quot;meta-pill&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
-                                            17.08.2026
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
-&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
-                                            Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
-&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~2 dk okuma süresi
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
-&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
-&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
-&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
-&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
-&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Duyuru İçeriği --&gt;
-&lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Avrupa Konseyi, Avrupa İlaç Kalitesi ve Sağlık Hizmetleri Direktörlüğü (EDQM), 2028–2031 Orta Vadeli Stratejisini hazırlamaktadır. Bu kapsamda EDQM, faaliyetlerinden ve çalışmalarından etkilenen tüm paydaşların görüş ve önerilerini almak amacıyla bir paydaş anketi düzenlemektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Anket aracılığıyla özellikle; gelecekteki önceliklere, ortaya çıkan yeni zorluklara ve fırsatlara, stratejik tercihlere, paydaşlarıyla iletişim ve iş birliği yöntemlerine ilişkin görüşlerin alınması hedeflenmektedir. Bu çalışmalar, Avrupa’da ve ötesinde halk sağlığının korunması ve geliştirilmesine yönelik EDQM katkısının güçlendirilmesini amaçlamaktadır.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Türkiye, 1993 yılından bu yana Avrupa Farmakopesi Sözleşmesi’ne taraf olup Avrupa Farmakopesi Komisyonunda yer almaktadır. TİTCK Analiz ve Kontrol Laboratuvarları Dairesi ise Ağustos 2024’te EDQM tarafından koordine edilen Genel Avrupa Resmî İlaç Kontrol Laboratuvarları Ağına (GEON) tam üye olmuştur. Bu üyelik kapsamında bilgi ve deneyim paylaşımı, ortak çalışmalar ve ilaçların kalite kontrolüne yönelik iş birliği sürdürülmektedir. Bu nedenle ankete verilecek görüşler, Türkiye’nin EDQM ile mevcut iş birliği ve etkileşiminin gelecekteki stratejik önceliklere yansıtılması açısından önem taşımaktadır.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Son Katılım Tarihi: 20 Ağustos 2026&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Tahmini Tamamlama Süresi: Yaklaşık 10 dakika&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Resmî duyuru:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;a href=&quot;https://www.edqm.eu/en/-/help-shape-the-edqm-s-future-direction-take-part-in-our-survey-&quot; target=&quot;_blank&quot;&gt;https://www.edqm.eu/en/-/help-shape-the-edqm-s-future-direction-take-part-in-our-survey-&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
-&lt;!-- Ek Dokümanlar Tablosu --&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>Dosya: GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</title>
       <link>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</link>
       <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</guid>
-      <pubDate>Tue, 01 Sep 2026 13:15:51 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 17:42:25 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx'&gt;GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
