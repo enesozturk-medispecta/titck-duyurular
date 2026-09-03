@@ -4,7 +4,7 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Thu, 03 Sep 2026 20:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:04:59 +0000</lastBuildDate>
     <item>
       <title>Klinik Araştırma Taraflarının Dikkatine</title>
       <link>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine</link>
@@ -40,7 +40,7 @@
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -103,7 +103,7 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>Kamuoyunun Dikkatine</title>
+      <title>KAMUOYUNUN DİKKATİNE</title>
       <link>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine</link>
       <guid>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine</guid>
       <description>&lt;div class=&quot;v2-content-section&quot;&gt;
@@ -137,7 +137,7 @@
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -163,7 +163,7 @@
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;Kamuoyunun Dikkatine&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;KAMUOYUNUN DİKKATİNE&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -200,7 +200,7 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>İlaç Fiyatlandırma ve Pazar Analiz Sistemi (ifpas) Hakkında</title>
+      <title>İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında</title>
       <link>https://titck.gov.tr/duyuru/ilac-fiyatlandirma-ve-pazar-analiz-sistemi-ifpas-hakkinda</link>
       <guid>https://titck.gov.tr/duyuru/ilac-fiyatlandirma-ve-pazar-analiz-sistemi-ifpas-hakkinda</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 -0000</pubDate>
@@ -235,7 +235,7 @@
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -261,7 +261,7 @@
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;İlaç Fiyatlandırma ve Pazar Analiz Sistemi (ifpas) Hakkında&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -403,7 +403,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>İlaç Firmalarının Dikkatine</title>
+      <title>İLAÇ FİRMALARININ DİKKATİNE</title>
       <link>https://titck.gov.tr/duyuru/ilac-firmalarinin-dikkatine</link>
       <guid>https://titck.gov.tr/duyuru/ilac-firmalarinin-dikkatine</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 -0000</pubDate>
@@ -438,7 +438,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -464,7 +464,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;İlaç Firmalarının Dikkatine&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;İLAÇ FİRMALARININ DİKKATİNE&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -605,7 +605,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -784,7 +784,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>İlaç Fiyatlandırma ve Pazar Analiz Sistemi (ifpas) Hakkında</title>
+      <title>İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında</title>
       <link>https://titck.gov.tr/duyuru/ilac-fiyatlandirma-ve-pazar-analiz-sistemi-ifpas-hakkinda-27082026110849</link>
       <guid>https://titck.gov.tr/duyuru/ilac-fiyatlandirma-ve-pazar-analiz-sistemi-ifpas-hakkinda-27082026110849</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 -0000</pubDate>
@@ -819,7 +819,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -845,7 +845,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;İlaç Fiyatlandırma ve Pazar Analiz Sistemi (ifpas) Hakkında&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;İlaç Fiyatlandırma ve Pazar Analiz Sistemi (İFPAS) Hakkında&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -1041,7 +1041,7 @@ testlerini gerçekleştirmeleri önemle rica olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1117,7 +1117,7 @@ seçilmesi önem arz etmektedir. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>2026 Yılı Gerçek Kaynak Fiyat Değişiklik Dönemi Başvuruları Hakkında</title>
+      <title>2026 yılı gerçek kaynak fiyat değişiklik dönemi başvuruları hakkında</title>
       <link>https://titck.gov.tr/duyuru/2026-yili-gercek-kaynak-fiyat-degisiklik-donemi-basvurulari-hakkinda-26082026142510</link>
       <guid>https://titck.gov.tr/duyuru/2026-yili-gercek-kaynak-fiyat-degisiklik-donemi-basvurulari-hakkinda-26082026142510</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 -0000</pubDate>
@@ -1152,7 +1152,7 @@ seçilmesi önem arz etmektedir. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1178,7 +1178,7 @@ seçilmesi önem arz etmektedir. &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;2026 Yılı Gerçek Kaynak Fiyat Değişiklik Dönemi Başvuruları Hakkında&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;2026 yılı gerçek kaynak fiyat değişiklik dönemi başvuruları hakkında&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -2199,7 +2199,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2262,7 +2262,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>01.06.2026 Tarihli Resmi Gazetede Yayımlanan 16 Adet Sözleşmeli Personel Alımına İlişkin İtiraz Değerlendirme Sonuçları ve Başvuru Değerlendirme Sonuçları</title>
+      <title>01.06.2026 TARİHLİ RESMİ GAZETEDE YAYIMLANAN 16 ADET SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN İTİRAZ DEĞERLENDİRME SONUÇLARI VE BAŞVURU DEĞERLENDİRME SONUÇLARI</title>
       <link>https://titck.gov.tr/duyuru/01-06-2026-tarihli-resmi-gazetede-yayimlanan-16-adet-sozlesmeli-personel-alimina-iliskin-itiraz-degerlendirme-sonuclari-ve-basvuru-degerlendirme-sonuclari-18082026151909</link>
       <guid>https://titck.gov.tr/duyuru/01-06-2026-tarihli-resmi-gazetede-yayimlanan-16-adet-sozlesmeli-personel-alimina-iliskin-itiraz-degerlendirme-sonuclari-ve-basvuru-degerlendirme-sonuclari-18082026151909</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 -0000</pubDate>
@@ -2297,7 +2297,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;
 &lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;703&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;704&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2323,7 +2323,7 @@ olunur.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;01.06.2026 Tarihli Resmi Gazetede Yayımlanan 16 Adet Sözleşmeli Personel Alımına İlişkin İtiraz Değerlendirme Sonuçları ve Başvuru Değerlendirme Sonuçları&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;01.06.2026 TARİHLİ RESMİ GAZETEDE YAYIMLANAN 16 ADET SÖZLEŞMELİ PERSONEL ALIMINA İLİŞKİN İTİRAZ DEĞERLENDİRME SONUÇLARI VE BAŞVURU DEĞERLENDİRME SONUÇLARI&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -2562,7 +2562,7 @@ teslim edilecektir.) &lt;span style=&quot;background:yellow;mso-highlight:yellow
       <title>Dosya: GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</title>
       <link>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</link>
       <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx</guid>
-      <pubDate>Thu, 03 Sep 2026 20:43:13 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 23:04:59 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx'&gt;GMP Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
