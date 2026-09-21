@@ -4,12 +4,12 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Mon, 21 Sep 2026 10:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:51:48 +0000</lastBuildDate>
     <item>
       <title>Güncellenen Kılavuz Hakkında</title>
       <link>https://titck.gov.tr/duyuru/guncellenen-kilavuz-hakkinda</link>
       <guid>https://titck.gov.tr/duyuru/guncellenen-kilavuz-hakkinda</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 -0000</pubDate>
       <description>&lt;div class=&quot;v2-content-section&quot;&gt;
 &lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
 &lt;div class=&quot;row g-4&quot;&gt;
@@ -72,7 +72,7 @@
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
 &lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
-                                            11.09.2026
+                                            18.09.2026
                                         &lt;/span&gt;
 &lt;span class=&quot;meta-pill unit-pill&quot;&gt;
 &lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
@@ -93,7 +93,7 @@
 &lt;/div&gt;
 &lt;!-- Duyuru İçeriği --&gt;
 &lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kurumumuz Denetim Hizmetleri Başkan Yardımcılığı, Kozmetik Denetim Dairesi Başkanlığı tarafından;  kenevirden elde edilen bileşenler ile kenevirden elde edilen sağlık ve destek ürünlerinin üretiminde faaliyet gösterecek üretim yerlerine verilecek Üretim Yeri İzin Belgesine ilişkin usul ve esasların belirlenmesi amacıyla başvuru süreçleri, başvuruların değerlendirme kriterleri ile üretim yerlerinin iyi üretim uygulamalarına uygunluk gerekliliklerini düzenleyen ve 06.03.2026 tarihinde yayımlanan “KDD-KLVZ-02 Kenevirden Elde Edilen Bileşenlerin, Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin Başvuru Kılavuzu” güncellenmiştir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kurumumuz Denetim Hizmetleri Başkan Yardımcılığı, Kozmetik Denetim Dairesi Başkanlığı tarafından;  kozmetik ürünlerin insan sağlığına zarar vermeyecek şekilde güvenli ve kaliteli bir biçimde üretilmesini sağlamak üzere üretim yerlerinde uygulanacak İyi Üretim Uygulamalarına ait usul ve esaslarla üretim yeri denetimlerine ilişkin standartları düzenleyen “KDD-KLVZ-01 KOZMETİK İYİ ÜRETİM UYGULAMALARI KILAVUZU” güncellenmiştir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
@@ -119,7 +119,7 @@
 &lt;i class=&quot;fas fa-file-pdf fs-3 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
 &lt;div&gt;
 &lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        Kenevirden Elde Edilen Bilesenlerin Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin Başvuru Kılavuzu.pdf
+                                        KOZMETİK İYİ ÜRETİM UYGULAMALARI (GMP) DENETİM FORMU .pdf
                                     &lt;/span&gt;
 &lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
                                         PDF
@@ -128,10 +128,10 @@
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 11.09.2026
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 18.09.2026
                                                     &lt;/td&gt;
 &lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KenevirdenEldeEdilenBilesenlerinDestekrnlerininveSalkrnlerininretimYerlerinelikinBavuruKlavuzu_9830418d-c3ea-437c-9c28-43eaf9fb7703.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Kenevirden Elde Edilen Bilesenlerin Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin Başvuru Kılavuzu.pdf - Dokümanı Aç / İndir&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KOZMETKYRETMUYGULAMALARIGMPDENETMFORMU_67670c69-f378-49ad-b89d-00b00528a341.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;KOZMETİK İYİ ÜRETİM UYGULAMALARI (GMP) DENETİM FORMU .pdf - Dokümanı Aç / İndir&quot;&gt;
 &lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
 &lt;span&gt;İNDİR (PDF)&lt;/span&gt;
 &lt;/a&gt;
@@ -143,7 +143,7 @@
 &lt;i class=&quot;fas fa-file-pdf fs-3 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
 &lt;div&gt;
 &lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        EK-I Üretim Yeri İzni Başvurusunda Gerekli Bilgi ve Belgeler.pdf
+                                        KDD-KLVZ-01 KOZMETİK İYİ ÜRETİM UYGULAMALARI KILAVUZU (1).pdf
                                     &lt;/span&gt;
 &lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
                                         PDF
@@ -152,34 +152,10 @@
 &lt;/div&gt;
 &lt;/td&gt;
 &lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 11.09.2026
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 18.09.2026
                                                     &lt;/td&gt;
 &lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/EKIretimYerizniBavurusundaGerekliBilgiveBelgeler_5ff032ad-718c-4792-b632-e75dabcc70dd.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;EK-I Üretim Yeri İzni Başvurusunda Gerekli Bilgi ve Belgeler.pdf - Dokümanı Aç / İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (PDF)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
-&lt;td class=&quot;py-3 px-4&quot;&gt;
-&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
-&lt;i class=&quot;fas fa-file-pdf fs-3 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        EK-II KDD-FR-10 Kenevirden Elde Edilen Bileşenlerin, Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin İyi Üretim Uygulamaları  (GMP) Denetim Formu.pdf
-                                    &lt;/span&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
-                                        PDF
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 11.09.2026
-                                                    &lt;/td&gt;
-&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/EKIIKDDFR10KenevirdenEldeEdilenBileenlerinDestekrnlerininveSalkrnlerininretimYerlerinelikinyiretimUygulamalarGMPDenetimFormu_ef23a9a9-293a-4f7b-912d-718cdd0e81e3.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;EK-II KDD-FR-10 Kenevirden Elde Edilen Bileşenlerin, Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin İyi Üretim Uygulamaları  (GMP) Denetim Formu.pdf - Dokümanı Aç / İndir&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KDDKLVZ01KOZMETKYRETMUYGULAMALARIKILAVUZU1_ca92fdcf-58c6-4dd2-99e8-f6e4306466e2.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;KDD-KLVZ-01 KOZMETİK İYİ ÜRETİM UYGULAMALARI KILAVUZU (1).pdf - Dokümanı Aç / İndir&quot;&gt;
 &lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
 &lt;span&gt;İNDİR (PDF)&lt;/span&gt;
 &lt;/a&gt;
@@ -195,7 +171,7 @@
 &lt;i class=&quot;fas fa-file-pdf fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
 &lt;div&gt;
 &lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            Kenevirden Elde Edilen Bilesenlerin Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin Başvuru Kılavuzu.pdf
+                            KOZMETİK İYİ ÜRETİM UYGULAMALARI (GMP) DENETİM FORMU .pdf
                         &lt;/div&gt;
 &lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
                             PDF
@@ -205,9 +181,9 @@
 &lt;div class=&quot;doc-footer-row&quot;&gt;
 &lt;div class=&quot;doc-date&quot;&gt;
 &lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    11.09.2026
+                                                    18.09.2026
                                             &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KenevirdenEldeEdilenBilesenlerinDestekrnlerininveSalkrnlerininretimYerlerinelikinBavuruKlavuzu_9830418d-c3ea-437c-9c28-43eaf9fb7703.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KOZMETKYRETMUYGULAMALARIGMPDENETMFORMU_67670c69-f378-49ad-b89d-00b00528a341.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
 &lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
 &lt;span&gt;İNDİR (PDF)&lt;/span&gt;
 &lt;/a&gt;
@@ -218,7 +194,7 @@
 &lt;i class=&quot;fas fa-file-pdf fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
 &lt;div&gt;
 &lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            EK-I Üretim Yeri İzni Başvurusunda Gerekli Bilgi ve Belgeler.pdf
+                            KDD-KLVZ-01 KOZMETİK İYİ ÜRETİM UYGULAMALARI KILAVUZU (1).pdf
                         &lt;/div&gt;
 &lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
                             PDF
@@ -228,32 +204,9 @@
 &lt;div class=&quot;doc-footer-row&quot;&gt;
 &lt;div class=&quot;doc-date&quot;&gt;
 &lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    11.09.2026
+                                                    18.09.2026
                                             &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/EKIretimYerizniBavurusundaGerekliBilgiveBelgeler_5ff032ad-718c-4792-b632-e75dabcc70dd.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (PDF)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #dc2626 !important;&quot;&gt;
-&lt;div class=&quot;doc-title-row&quot;&gt;
-&lt;i class=&quot;fas fa-file-pdf fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #dc2626;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            EK-II KDD-FR-10 Kenevirden Elde Edilen Bileşenlerin, Destek Ürünlerinin ve Sağlık Ürünlerinin Üretim Yerlerine İlişkin İyi Üretim Uygulamaları  (GMP) Denetim Formu.pdf
-                        &lt;/div&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #fee2e2; color: #991b1b;&quot;&gt;
-                            PDF
-                        &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;doc-footer-row&quot;&gt;
-&lt;div class=&quot;doc-date&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    11.09.2026
-                                            &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/EKIIKDDFR10KenevirdenEldeEdilenBileenlerinDestekrnlerininveSalkrnlerininretimYerlerinelikinyiretimUygulamalarGMPDenetimFormu_ef23a9a9-293a-4f7b-912d-718cdd0e81e3.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KDDKLVZ01KOZMETKYRETMUYGULAMALARIKILAVUZU1_ca92fdcf-58c6-4dd2-99e8-f6e4306466e2.pdf&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
 &lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
 &lt;span&gt;İNDİR (PDF)&lt;/span&gt;
 &lt;/a&gt;
@@ -565,6 +518,7 @@ hususlara azami özen göstererek başvuru yapmaları önemle rica olunur.&lt;o:
       <title>Klinik Araştırma Taraflarının Dikkatine</title>
       <link>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine</link>
       <guid>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 -0000</pubDate>
       <description>&lt;div class=&quot;v2-content-section&quot;&gt;
 &lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
 &lt;div class=&quot;row g-4&quot;&gt;
@@ -627,7 +581,7 @@ hususlara azami özen göstererek başvuru yapmaları önemle rica olunur.&lt;o:
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
 &lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
-                                            03.09.2026
+                                            14.09.2026
                                         &lt;/span&gt;
 &lt;span class=&quot;meta-pill unit-pill&quot;&gt;
 &lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
@@ -648,11 +602,221 @@ hususlara azami özen göstererek başvuru yapmaları önemle rica olunur.&lt;o:
 &lt;/div&gt;
 &lt;!-- Duyuru İçeriği --&gt;
 &lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Klinik araştırmalar kapsamında gerçekleştirilen güvenlilik bildirimlerinin uluslararası uygulamalarla uyumlu hale getirilmesi ve bildirim süreçlerinin daha etkin şekilde yürütülmesi amacıyla Kurumumuz tarafından ulusal “SUSAR Modülü” kullanıma sunulmuştur. Klinik Araştırmalar Modülü içerisinde yer alan bu modül sayesinde, ülkemizde yürütülen klinik araştırmalarda ortaya çıkan bireysel güvenlilik vakalarına ilişkin bildirimlerin elektronik ortamda kabul edilmesi ve kayıt altına alınması, merkezi bir ulusal veri tabanında toplanması ve söz konusu veriler üzerinden gerekli değerlendirme ve analizlerin yapılması mümkün olacaktır.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;15.09.2026 tarihinden itibaren SUSAR bildirimleri yalnızca “SUSAR Modülü” üzerinden ve XML formatında kabul edilecek olup, CIOMS formatında bildirim kabul edilmeyecektir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Tüm ilgililere önemle duyurulur.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;26.08.2026 tarihinde yayımlanarak yürürlüğe giren “Klinik Araştırmalarda Kullanılacak Araştırma Ürünlerinin ve Yardımcı Beşerî Tıbbi Ürünlerin İthalatı, İadesi ve İmhasına İlişkin Kılavuz” doğrultusunda;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;“Klinik Araştırmalarda Kullanılacak Araştırma Ürünleri ve Yardımcı Beşerî Tıbbi Ürünlerin İthalatı İçin Başvuru Formu”, &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;“Araştırma Ürünü ve Yardımcı Beşerî Tıbbi Ürün Kapanış Raporu”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;İthalat ve ortak ithalat üst yazı örnekleri &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;hazırlanmış/güncellenmiş olup ilgili dokümanlara https://www.titck.gov.tr/faaliyetalanlari/ilac/klinik-arastirmalar adresinde yer alan “Başvuru Formları-İthalat/Kapanış Raporu” başlığı altından ulaşılabilmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;16.09.2026 tarihi ve sonrasında yapılacak başvurularda güncel form ve üst yazı örneklerinin kullanılması gerekmekte olup söz konusu dokümanlar kullanılmadan yapılan başvurular değerlendirmeye alınmayacaktır.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;İlgililere önemle duyurulur.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
 &lt;!-- Ek Dokümanlar Tablosu --&gt;
+&lt;div class=&quot;v2-attachments mt-4&quot;&gt;
+&lt;h2&gt;Ek Dokümanlar&lt;/h2&gt;
+&lt;div class=&quot;v2-attachments-wrapper mt-3 mb-4&quot;&gt;
+
+&lt;!-- Desktop Table --&gt;
+&lt;div class=&quot;table-responsive rounded-3 border shadow-sm v2-doc-table-desktop&quot; style=&quot;border-color: #e2e8f0 !important; background: #ffffff;&quot;&gt;
+&lt;table class=&quot;table align-middle m-0&quot; style=&quot;background: #ffffff;&quot;&gt;
+&lt;thead style=&quot;background: #0f2c59; color: #ffffff;&quot;&gt;
+&lt;tr&gt;
+&lt;th class=&quot;py-3 px-4 fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;color: #ffffff; border: none;&quot;&gt;Doküman Adı &amp; Türü&lt;/th&gt;
+&lt;th class=&quot;py-3 px-3 text-center fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 140px; color: #ffffff; border: none;&quot;&gt;Yükleme Tarihi&lt;/th&gt;
+&lt;th class=&quot;py-3 px-4 text-end fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 170px; color: #ffffff; border: none;&quot;&gt;İndir&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
+&lt;td class=&quot;py-3 px-4&quot;&gt;
+&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
+                                        İthalat Başvrusu Üst Yazı Örneği.docx
+                                    &lt;/span&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                                        WORD
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
+                                                    &lt;/td&gt;
+&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavrusustYazrnei_09745a19-48b1-4b30-89d8-44278e86fce9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İthalat Başvrusu Üst Yazı Örneği.docx - Dokümanı Aç / İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
+&lt;td class=&quot;py-3 px-4&quot;&gt;
+&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
+                                        İthalat Başvuru Formu.docx
+                                    &lt;/span&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                                        WORD
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
+                                                    &lt;/td&gt;
+&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavuruFormu_385cfa07-f700-4473-bb93-d4bd0d2cdde9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İthalat Başvuru Formu.docx - Dokümanı Aç / İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
+&lt;td class=&quot;py-3 px-4&quot;&gt;
+&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
+                                        Kapanış Raporu.docx
+                                    &lt;/span&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                                        WORD
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
+                                                    &lt;/td&gt;
+&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KapanRaporu_f8c140de-8ace-4709-9d14-2aef128625dd.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Kapanış Raporu.docx - Dokümanı Aç / İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
+&lt;td class=&quot;py-3 px-4&quot;&gt;
+&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
+                                        Ortak İthalat Başvurusu Üst Yazı Örneği.docx
+                                    &lt;/span&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                                        WORD
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
+                                                    &lt;/td&gt;
+&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/OrtakthalatBavurusustYazrnei_14535dc5-0ca4-425b-b19c-fb9c23efa32d.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Ortak İthalat Başvurusu Üst Yazı Örneği.docx - Dokümanı Aç / İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;!-- Mobile Responsive Cards --&gt;
+&lt;div class=&quot;v2-doc-mobile-list&quot;&gt;
+&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
+&lt;div class=&quot;doc-title-row&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
+                            İthalat Başvrusu Üst Yazı Örneği.docx
+                        &lt;/div&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                            WORD
+                        &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;doc-footer-row&quot;&gt;
+&lt;div class=&quot;doc-date&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
+                                                    14.09.2026
+                                            &lt;/div&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavrusustYazrnei_09745a19-48b1-4b30-89d8-44278e86fce9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
+&lt;div class=&quot;doc-title-row&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
+                            İthalat Başvuru Formu.docx
+                        &lt;/div&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                            WORD
+                        &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;doc-footer-row&quot;&gt;
+&lt;div class=&quot;doc-date&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
+                                                    14.09.2026
+                                            &lt;/div&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavuruFormu_385cfa07-f700-4473-bb93-d4bd0d2cdde9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
+&lt;div class=&quot;doc-title-row&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
+                            Kapanış Raporu.docx
+                        &lt;/div&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                            WORD
+                        &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;doc-footer-row&quot;&gt;
+&lt;div class=&quot;doc-date&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
+                                                    14.09.2026
+                                            &lt;/div&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KapanRaporu_f8c140de-8ace-4709-9d14-2aef128625dd.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
+&lt;div class=&quot;doc-title-row&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
+                            Ortak İthalat Başvurusu Üst Yazı Örneği.docx
+                        &lt;/div&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                            WORD
+                        &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;doc-footer-row&quot;&gt;
+&lt;div class=&quot;doc-date&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
+                                                    14.09.2026
+                                            &lt;/div&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/OrtakthalatBavurusustYazrnei_14535dc5-0ca4-425b-b19c-fb9c23efa32d.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1226,7 +1390,7 @@ yapılması gerekmektedir.&lt;/span&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/
       <title>Dosya: Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5 (3) (1)_6c5b085d-00c9-45d1-a18c-bd7d056850d9.xlsx</title>
       <link>https://titck.gov.tr/Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5 (3) (1)_6c5b085d-00c9-45d1-a18c-bd7d056850d9.xlsx</link>
       <guid>https://titck.gov.tr/Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5 (3) (1)_6c5b085d-00c9-45d1-a18c-bd7d056850d9.xlsx</guid>
-      <pubDate>Mon, 21 Sep 2026 10:29:42 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 16:51:48 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5 (3) (1)_6c5b085d-00c9-45d1-a18c-bd7d056850d9.xlsx'&gt;Sertifikası Verilen Firma Duyuru Listesi 24.08.2026_f99af70c-d086-4db6-a260-cc10ddd313c5 (3) (1)_6c5b085d-00c9-45d1-a18c-bd7d056850d9.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
