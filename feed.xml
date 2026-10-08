@@ -4,7 +4,174 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Thu, 08 Oct 2026 07:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:22:28 +0000</lastBuildDate>
+    <item>
+      <title>Klinik Araştırma Taraflarının Dikkatine</title>
+      <link>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine-1</link>
+      <guid>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine-1</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 -0000</pubDate>
+      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
+&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
+&lt;div class=&quot;row g-4&quot;&gt;
+&lt;!-- Sol Menü (Sidebar) --&gt;
+&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
+&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
+&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
+&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
+&lt;span&gt;Önemli Duyurular&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
+&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;709&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Geri Çekme RSS Kutusu --&gt;
+&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
+&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
+&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
+&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
+&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
+&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
+                                &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Sağ İçerik Alanı --&gt;
+&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
+&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
+
+&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
+&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
+&lt;div class=&quot;v2-detail-header&quot;&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;Klinik Araştırma Taraflarının Dikkatine&lt;/h1&gt;
+&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
+&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
+&lt;span class=&quot;meta-pill&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
+                                            08.10.2026
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
+&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
+                                            Klinik Araştırmalar Dairesi Başkanlığı
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
+&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~1 dk okuma süresi
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
+&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
+&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
+&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
+&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
+&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Duyuru İçeriği --&gt;
+&lt;div class=&quot;v2-detail-body&quot;&gt;
+&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Klinik araştırmalardan elde edilen sonuçların, bilimsel ve teknik ifadeler mümkün olduğunca sadeleştirilerek araştırmaya katılan kişiler ve kamuoyu tarafından kolayca anlaşılabilecek şekilde sunulmasını ve sonuçların kamuoyuyla şeffaf, tutarlı ve anlaşılır bir dille paylaşılmasını sağlamak amacıyla, Beşeri Tıbbi Ürünlerin Klinik Araştırmaları Hakkında Yönetmelik doğrultusunda hazırlanan “Kamuoyuna Sunulan Araştırma Sonuç Raporu Özeti” dokümanı 05.10.2026 tarihinde yayımlanmıştır.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Söz konusu dokümana, Kurumumuzun Klinik Araştırmalar internet sayfasında yer alan “Başvuru Formları – Bildirimler” başlığı altından ulaşılabilmektedir.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;05.10.2026 tarihinden itibaren kamuoyuna sunulan araştırma sonuç raporu özetine ilişkin yapılacak başvurularda güncel dokümanın kullanılması gerekmekte olup söz konusu doküman kullanılmadan yapılan başvurular değerlendirmeye alınmayacaktır.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;İlgililere önemle duyurulur.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Tarih&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Doküman&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
+&lt;!-- Ek Dokümanlar Tablosu --&gt;
+&lt;div class=&quot;v2-attachments mt-4&quot;&gt;
+&lt;h2&gt;Ek Dokümanlar&lt;/h2&gt;
+&lt;div class=&quot;v2-attachments-wrapper mt-3 mb-4&quot;&gt;
+
+&lt;!-- Desktop Table --&gt;
+&lt;div class=&quot;table-responsive rounded-3 border shadow-sm v2-doc-table-desktop&quot; style=&quot;border-color: #e2e8f0 !important; background: #ffffff;&quot;&gt;
+&lt;table class=&quot;table align-middle m-0&quot; style=&quot;background: #ffffff;&quot;&gt;
+&lt;thead style=&quot;background: #0f2c59; color: #ffffff;&quot;&gt;
+&lt;tr&gt;
+&lt;th class=&quot;py-3 px-4 fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;color: #ffffff; border: none;&quot;&gt;Doküman Adı &amp; Türü&lt;/th&gt;
+&lt;th class=&quot;py-3 px-3 text-center fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 140px; color: #ffffff; border: none;&quot;&gt;Yükleme Tarihi&lt;/th&gt;
+&lt;th class=&quot;py-3 px-4 text-end fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 170px; color: #ffffff; border: none;&quot;&gt;İndir&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
+&lt;td class=&quot;py-3 px-4&quot;&gt;
+&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
+                                        KAD-DD-29_KAMUOYUNA SUNULAN ARAŞTIRMA SONUÇ RAPORU ÖZETİ (1).docx
+                                    &lt;/span&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                                        WORD
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 08.10.2026
+                                                    &lt;/td&gt;
+&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KADDD29KAMUOYUNASUNULANARATIRMASONURAPORUZET1_1b133463-c551-4f03-8c57-ea7574098859.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;KAD-DD-29_KAMUOYUNA SUNULAN ARAŞTIRMA SONUÇ RAPORU ÖZETİ (1).docx - Dokümanı Aç / İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;!-- Mobile Responsive Cards --&gt;
+&lt;div class=&quot;v2-doc-mobile-list&quot;&gt;
+&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
+&lt;div class=&quot;doc-title-row&quot;&gt;
+&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
+                            KAD-DD-29_KAMUOYUNA SUNULAN ARAŞTIRMA SONUÇ RAPORU ÖZETİ (1).docx
+                        &lt;/div&gt;
+&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
+                            WORD
+                        &lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;doc-footer-row&quot;&gt;
+&lt;div class=&quot;doc-date&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
+                                                    08.10.2026
+                                            &lt;/div&gt;
+&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KADDD29KAMUOYUNASUNULANARATIRMASONURAPORUZET1_1b133463-c551-4f03-8c57-ea7574098859.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
+&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Kamuoyunun Dikkatine</title>
       <link>https://titck.gov.tr/duyuru/kamuoyunun-dikkatine-6</link>
@@ -22,7 +189,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -119,7 +286,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -216,7 +383,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -313,7 +480,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -411,7 +578,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -577,7 +744,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -675,7 +842,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -888,7 +1055,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1086,7 +1253,7 @@ hususlara azami özen göstererek başvuru yapmaları önemle rica olunur.&lt;o:
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2883&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1167,318 +1334,10 @@ hususlara azami özen göstererek başvuru yapmaları önemle rica olunur.&lt;o:
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>Klinik Araştırma Taraflarının Dikkatine</title>
-      <link>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine</link>
-      <guid>https://titck.gov.tr/duyuru/klinik-arastirma-taraflarinin-dikkatine</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 -0000</pubDate>
-      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
-&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
-&lt;div class=&quot;row g-4&quot;&gt;
-&lt;!-- Sol Menü (Sidebar) --&gt;
-&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
-&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
-&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2882&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
-&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
-&lt;span&gt;Önemli Duyurular&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
-&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;709&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;!-- Geri Çekme RSS Kutusu --&gt;
-&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
-&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
-&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
-&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
-&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
-&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
-                                &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Sağ İçerik Alanı --&gt;
-&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
-&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
-
-&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
-&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
-&lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;Klinik Araştırma Taraflarının Dikkatine&lt;/h1&gt;
-&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
-&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
-&lt;span class=&quot;meta-pill&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
-                                            14.09.2026
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
-&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
-                                            Klinik Araştırmalar Dairesi Başkanlığı
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
-&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~1 dk okuma süresi
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
-&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
-&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
-&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
-&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
-&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Duyuru İçeriği --&gt;
-&lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;26.08.2026 tarihinde yayımlanarak yürürlüğe giren “Klinik Araştırmalarda Kullanılacak Araştırma Ürünlerinin ve Yardımcı Beşerî Tıbbi Ürünlerin İthalatı, İadesi ve İmhasına İlişkin Kılavuz” doğrultusunda;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;“Klinik Araştırmalarda Kullanılacak Araştırma Ürünleri ve Yardımcı Beşerî Tıbbi Ürünlerin İthalatı İçin Başvuru Formu”, &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;“Araştırma Ürünü ve Yardımcı Beşerî Tıbbi Ürün Kapanış Raporu”&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt; &lt;/span&gt;İthalat ve ortak ithalat üst yazı örnekleri &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;hazırlanmış/güncellenmiş olup ilgili dokümanlara https://www.titck.gov.tr/faaliyetalanlari/ilac/klinik-arastirmalar adresinde yer alan “Başvuru Formları-İthalat/Kapanış Raporu” başlığı altından ulaşılabilmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;16.09.2026 tarihi ve sonrasında yapılacak başvurularda güncel form ve üst yazı örneklerinin kullanılması gerekmekte olup söz konusu dokümanlar kullanılmadan yapılan başvurular değerlendirmeye alınmayacaktır.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;İlgililere önemle duyurulur.&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
-&lt;!-- Ek Dokümanlar Tablosu --&gt;
-&lt;div class=&quot;v2-attachments mt-4&quot;&gt;
-&lt;h2&gt;Ek Dokümanlar&lt;/h2&gt;
-&lt;div class=&quot;v2-attachments-wrapper mt-3 mb-4&quot;&gt;
-
-&lt;!-- Desktop Table --&gt;
-&lt;div class=&quot;table-responsive rounded-3 border shadow-sm v2-doc-table-desktop&quot; style=&quot;border-color: #e2e8f0 !important; background: #ffffff;&quot;&gt;
-&lt;table class=&quot;table align-middle m-0&quot; style=&quot;background: #ffffff;&quot;&gt;
-&lt;thead style=&quot;background: #0f2c59; color: #ffffff;&quot;&gt;
-&lt;tr&gt;
-&lt;th class=&quot;py-3 px-4 fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;color: #ffffff; border: none;&quot;&gt;Doküman Adı &amp; Türü&lt;/th&gt;
-&lt;th class=&quot;py-3 px-3 text-center fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 140px; color: #ffffff; border: none;&quot;&gt;Yükleme Tarihi&lt;/th&gt;
-&lt;th class=&quot;py-3 px-4 text-end fw-semibold fs-14&quot; scope=&quot;col&quot; style=&quot;width: 170px; color: #ffffff; border: none;&quot;&gt;İndir&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
-&lt;td class=&quot;py-3 px-4&quot;&gt;
-&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        İthalat Başvrusu Üst Yazı Örneği.docx
-                                    &lt;/span&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                                        WORD
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
-                                                    &lt;/td&gt;
-&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavrusustYazrnei_09745a19-48b1-4b30-89d8-44278e86fce9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İthalat Başvrusu Üst Yazı Örneği.docx - Dokümanı Aç / İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
-&lt;td class=&quot;py-3 px-4&quot;&gt;
-&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        İthalat Başvuru Formu.docx
-                                    &lt;/span&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                                        WORD
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
-                                                    &lt;/td&gt;
-&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavuruFormu_385cfa07-f700-4473-bb93-d4bd0d2cdde9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İthalat Başvuru Formu.docx - Dokümanı Aç / İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
-&lt;td class=&quot;py-3 px-4&quot;&gt;
-&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        Kapanış Raporu.docx
-                                    &lt;/span&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                                        WORD
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
-                                                    &lt;/td&gt;
-&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KapanRaporu_f8c140de-8ace-4709-9d14-2aef128625dd.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Kapanış Raporu.docx - Dokümanı Aç / İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr style=&quot;border-bottom: 1px solid #f1f5f9;&quot;&gt;
-&lt;td class=&quot;py-3 px-4&quot;&gt;
-&lt;div class=&quot;d-flex align-items-center gap-3&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;span class=&quot;fw-semibold text-dark d-block fs-14 mb-1&quot;&gt;
-                                        Ortak İthalat Başvurusu Üst Yazı Örneği.docx
-                                    &lt;/span&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                                        WORD
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;py-3 px-3 text-center text-muted fs-13&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt; 14.09.2026
-                                                    &lt;/td&gt;
-&lt;td class=&quot;py-3 px-4 text-end&quot;&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/OrtakthalatBavurusustYazrnei_14535dc5-0ca4-425b-b19c-fb9c23efa32d.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;Ortak İthalat Başvurusu Üst Yazı Örneği.docx - Dokümanı Aç / İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;!-- Mobile Responsive Cards --&gt;
-&lt;div class=&quot;v2-doc-mobile-list&quot;&gt;
-&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
-&lt;div class=&quot;doc-title-row&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            İthalat Başvrusu Üst Yazı Örneği.docx
-                        &lt;/div&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                            WORD
-                        &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;doc-footer-row&quot;&gt;
-&lt;div class=&quot;doc-date&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    14.09.2026
-                                            &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavrusustYazrnei_09745a19-48b1-4b30-89d8-44278e86fce9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
-&lt;div class=&quot;doc-title-row&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            İthalat Başvuru Formu.docx
-                        &lt;/div&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                            WORD
-                        &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;doc-footer-row&quot;&gt;
-&lt;div class=&quot;doc-date&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    14.09.2026
-                                            &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/thalatBavuruFormu_385cfa07-f700-4473-bb93-d4bd0d2cdde9.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
-&lt;div class=&quot;doc-title-row&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            Kapanış Raporu.docx
-                        &lt;/div&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                            WORD
-                        &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;doc-footer-row&quot;&gt;
-&lt;div class=&quot;doc-date&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    14.09.2026
-                                            &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/KapanRaporu_f8c140de-8ace-4709-9d14-2aef128625dd.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;v2-doc-card-mobile&quot; style=&quot;border-left: 4px solid #2563eb !important;&quot;&gt;
-&lt;div class=&quot;doc-title-row&quot;&gt;
-&lt;i class=&quot;fas fa-file-word fs-3 mt-1 flex-shrink-0&quot; style=&quot;color: #2563eb;&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;div class=&quot;doc-title-text mb-1&quot;&gt;
-                            Ortak İthalat Başvurusu Üst Yazı Örneği.docx
-                        &lt;/div&gt;
-&lt;span class=&quot;doc-badge-pill&quot; style=&quot;background: #dbeafe; color: #1e40af;&quot;&gt;
-                            WORD
-                        &lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;doc-footer-row&quot;&gt;
-&lt;div class=&quot;doc-date&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-secondary opacity-75&quot;&gt;&lt;/i&gt;
-                                                    14.09.2026
-                                            &lt;/div&gt;
-&lt;a class=&quot;doc-action-btn-download&quot; href=&quot;https://titck.gov.tr/storage/Archive/2026/announcement/OrtakthalatBavurusustYazrnei_14535dc5-0ca4-425b-b19c-fb9c23efa32d.docx&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; title=&quot;İndir&quot;&gt;
-&lt;i class=&quot;fas fa-download&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İNDİR (WORD)&lt;/span&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt; &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>Dosya: GMP Sertifikası Verilen Firma Duyuru Listesi 28.09.2026_9346d68f-91cb-48d1-94ec-039e46dbbc9d.xlsx</title>
       <link>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 28.09.2026_9346d68f-91cb-48d1-94ec-039e46dbbc9d.xlsx</link>
       <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 28.09.2026_9346d68f-91cb-48d1-94ec-039e46dbbc9d.xlsx</guid>
-      <pubDate>Thu, 08 Oct 2026 07:08:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 15:22:28 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 28.09.2026_9346d68f-91cb-48d1-94ec-039e46dbbc9d.xlsx'&gt;GMP Sertifikası Verilen Firma Duyuru Listesi 28.09.2026_9346d68f-91cb-48d1-94ec-039e46dbbc9d.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
