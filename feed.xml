@@ -4,7 +4,104 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Fri, 30 Oct 2026 15:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:32:25 +0000</lastBuildDate>
+    <item>
+      <title>Avrupa Farmakopesi 3DP Çalışma Grubu</title>
+      <link>https://titck.gov.tr/duyuru/avrupa-farmakopesi-3dp-calisma-grubu</link>
+      <guid>https://titck.gov.tr/duyuru/avrupa-farmakopesi-3dp-calisma-grubu</guid>
+      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
+&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
+&lt;div class=&quot;row g-4&quot;&gt;
+&lt;!-- Sol Menü (Sidebar) --&gt;
+&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
+&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
+&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
+&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
+&lt;span&gt;Önemli Duyurular&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
+&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
+&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
+&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
+&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;710&lt;/span&gt;
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Geri Çekme RSS Kutusu --&gt;
+&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
+&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
+&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
+&lt;div&gt;
+&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
+&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
+&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
+&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
+                                &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Sağ İçerik Alanı --&gt;
+&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
+&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
+
+&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
+&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
+&lt;div class=&quot;v2-detail-header&quot;&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;Avrupa Farmakopesi 3DP Çalışma Grubu&lt;/h1&gt;
+&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
+&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
+&lt;span class=&quot;meta-pill&quot;&gt;
+&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
+                                            30.10.2026
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
+&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
+                                            Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
+                                        &lt;/span&gt;
+&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
+&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~2 dk okuma süresi
+                                    &lt;/span&gt;
+&lt;/div&gt;
+&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
+&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
+&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
+&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
+&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
+&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Duyuru İçeriği --&gt;
+&lt;div class=&quot;v2-detail-body&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Avrupa Farmakopesi'nde (Ph. Eur.) yeni oluşturulan 3 Boyutlu Baskılı Tıbbi Ürünler Çalışma Grubu (3DP WP), ilaç sektöründe kullanılan 3 boyutlu baskı teknolojilerinin Avrupa Farmakopesi için uygunluğunu ve potansiyel etkisini değerlendirecektir. Bu çalışma, yeni farmakope metinlerine ihtiyaç duyulan veya mevcut metinlerde revize edilmesi gereken alanları belirleyecek, gelecekteki çalışmalar için öneriler geliştirecek ve Avrupa Farmakopesi için uygun stratejiler konusunda tavsiyelerde bulunacaktır. Çalışma grubu, bu hızla gelişen alanda koordineli bir yaklaşım sağlamak için diğer uzman grupları ve çalışma gruplarıyla yakın işbirliği içinde çalışacaktır. Bu çalışmayı desteklemek için, Avrupa Farmakopesi Komisyonu, özellikle 3D baskılı tıbbi ürünlerin geliştirilmesi, üretimi, kalite kontrolü, değerlendirilmesi veya denetimi konularında uzun yıllara dayanan deneyime sahip uzmanlardan ilgi beyanlarını beklemektedir. Yenilikçi teknolojilerle ilgili ilaç geliştirme, üretim veya analitik prosedürler konusunda ek uzmanlık bir avantaj olacaktır. Detaylı başvuru koşulları için orijinal duyuru metni incelenmelidir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Ülkemiz Avrupa Farmakopesi üye devletleri arasında yer aldığından, başvuruların Ulusal Farmakope Otoritesi (Türkiye İlaç ve Tıbbi Cihaz Kurumu, Farmakope Birimi, e-posta: farmakope@titck.gov.tr) aracılığıyla gönderilmesi gerekmektedir. Ulusal Otorite tarafından gerekli değerlendirme ve düzenlemelerin yapılabilmesi için başvurularınızı 11 Kasım 2026 tarihinden önce gerçekleştirmeniz önerilmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Orijinal duyuru:&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.edqm.eu/en/-/epc-approves-creation-of-new-working-party-on-3d-printed-medicinal-products&quot; target=&quot;_blank&quot;&gt;https://www.edqm.eu/en/-/epc-approves-creation-of-new-working-party-on-3d-printed-medicinal-products&lt;/a&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
+&lt;!-- Ek Dokümanlar Tablosu --&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Beşeri Tıbbi Ürün Tanıtım Temsilcisi Yeterlilik Belgesi Eğitimine İlişkin Duyuru</title>
       <link>https://titck.gov.tr/duyuru/beseri-tibbi-urun-tanitim-temsilcisi-yeterlilik-belgesi-egitimine-iliskin-duyuru</link>
@@ -22,7 +119,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -119,7 +216,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -217,7 +314,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -383,7 +480,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -480,7 +577,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -577,7 +674,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -684,7 +781,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -782,7 +879,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1230,7 +1327,7 @@
 &lt;li&gt;
 &lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
 &lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
+&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2896&lt;/span&gt;
 &lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1311,108 +1408,11 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>Avrupa Farmakopesi “Paraffin, hard” ve “Microcrystalline wax” taslak monograflarında metot tercihi için geri bildirim talebi</title>
-      <link>https://titck.gov.tr/duyuru/avrupa-farmakopesi-paraffin-hard-ve-microcrystalline-wax-taslak-monograflarinda-metot-tercihi-icin-geri-bildirim-talebi</link>
-      <guid>https://titck.gov.tr/duyuru/avrupa-farmakopesi-paraffin-hard-ve-microcrystalline-wax-taslak-monograflarinda-metot-tercihi-icin-geri-bildirim-talebi</guid>
-      <description>&lt;div class=&quot;v2-content-section&quot;&gt;
-&lt;div class=&quot;container&quot; style=&quot;max-width: 1340px;&quot;&gt;
-&lt;div class=&quot;row g-4&quot;&gt;
-&lt;!-- Sol Menü (Sidebar) --&gt;
-&lt;div class=&quot;col-lg-3 d-none d-lg-block&quot;&gt;
-&lt;div class=&quot;v2-sidebar-menu shadow-sm&quot;&gt;
-&lt;div class=&quot;sidebar-title d-flex align-items-center justify-content-between&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-folder-open me-2 text-danger&quot;&gt;&lt;/i&gt;Yayın Merkezi&lt;/span&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a class=&quot;active d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/duyuru&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-bullhorn fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;Tüm Duyurular&lt;/span&gt;
-&lt;span class=&quot;badge bg-danger text-white rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;2895&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=onemli&quot;&gt;
-&lt;i class=&quot;fas fa-star fs-12 me-2 text-warning&quot;&gt;&lt;/i&gt;
-&lt;span&gt;Önemli Duyurular&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center&quot; href=&quot;https://titck.gov.tr/duyuru?aramaTipi=geriCekme&quot;&gt;
-&lt;i class=&quot;fas fa-exclamation-triangle fs-12 me-2 text-danger&quot;&gt;&lt;/i&gt;
-&lt;span&gt;İlaç Geri Çekme &amp; Blokaj&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a class=&quot;d-flex align-items-center justify-content-between&quot; href=&quot;https://titck.gov.tr/haber&quot;&gt;
-&lt;span&gt;&lt;i class=&quot;fas fa-newspaper fs-12 me-2 text-primary&quot;&gt;&lt;/i&gt;Haberler&lt;/span&gt;
-&lt;span class=&quot;badge bg-secondary bg-opacity-10 text-secondary rounded-pill px-2 py-0.5&quot; style=&quot;font-size: 11px;&quot;&gt;710&lt;/span&gt;
-&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;!-- Geri Çekme RSS Kutusu --&gt;
-&lt;div class=&quot;card border-0 shadow-sm rounded-3 mt-3 p-3&quot; style=&quot;background: linear-gradient(135deg, #fff5f5 0%, #ffffff 100%); border: 1px solid #fee2e2 !important;&quot;&gt;
-&lt;div class=&quot;d-flex align-items-start gap-2&quot;&gt;
-&lt;i class=&quot;fas fa-rss-square text-danger fs-4 mt-1&quot;&gt;&lt;/i&gt;
-&lt;div&gt;
-&lt;h6 class=&quot;fw-bold text-dark mb-1&quot; style=&quot;font-size: 13px;&quot;&gt;Geri Çekme RSS&lt;/h6&gt;
-&lt;p class=&quot;text-muted mb-2&quot; style=&quot;font-size: 11.5px; line-height: 1.4;&quot;&gt;İlaç geri çekme duyurularını anlık takip edin.&lt;/p&gt;
-&lt;a class=&quot;btn btn-sm btn-outline-danger fw-semibold px-2 py-1&quot; href=&quot;https://titck.gov.tr/recallAnnouncementFeeds&quot; rel=&quot;noopener noreferrer&quot; style=&quot;font-size: 11px;&quot; target=&quot;_blank&quot;&gt;
-&lt;i class=&quot;fas fa-external-link-alt me-1&quot;&gt;&lt;/i&gt; RSS Bağlantısı
-                                &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Sağ İçerik Alanı --&gt;
-&lt;div class=&quot;col-lg-9 col-12&quot;&gt;
-&lt;!-- Ekmek Kırıntısı Navigasyon (WCAG 2.4.8 Uyumlu &amp; Kurumsal Standart) --&gt;
-
-&lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
-&lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
-&lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;Avrupa Farmakopesi “Paraffin, hard” ve “Microcrystalline wax” taslak monograflarında metot tercihi için geri bildirim talebi&lt;/h1&gt;
-&lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
-&lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
-&lt;span class=&quot;meta-pill&quot;&gt;
-&lt;i class=&quot;far fa-calendar-alt me-1 text-danger&quot;&gt;&lt;/i&gt;
-                                            09.10.2026
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill unit-pill&quot;&gt;
-&lt;i class=&quot;fas fa-building me-1&quot;&gt;&lt;/i&gt;
-                                            Analiz ve Kontrol Laboratuvarı Dairesi Başkanlığı
-                                        &lt;/span&gt;
-&lt;span class=&quot;meta-pill reading-time-pill&quot; title=&quot;Tahmini Okuma Süresi&quot;&gt;
-&lt;i class=&quot;far fa-clock me-1&quot;&gt;&lt;/i&gt; ~1 dk okuma süresi
-                                    &lt;/span&gt;
-&lt;/div&gt;
-&lt;!-- Erişilebilirlik Yazı Boyutu Değiştirici (A- / A / A+) --&gt;
-&lt;div aria-label=&quot;Yazı Boyutunu Değiştir&quot; class=&quot;v2-font-resizer-wrapper&quot; role=&quot;group&quot;&gt;
-&lt;span class=&quot;font-resizer-label&quot;&gt;&lt;i class=&quot;fas fa-text-height me-1&quot;&gt;&lt;/i&gt;Metin:&lt;/span&gt;
-&lt;button aria-label=&quot;Yazıyı Küçült&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;small&quot; title=&quot;Yazıyı Küçült&quot; type=&quot;button&quot;&gt;A-&lt;/button&gt;
-&lt;button aria-label=&quot;Varsayılan Boyut&quot; class=&quot;btn-font-resizer active&quot; data-size=&quot;normal&quot; title=&quot;Varsayılan Boyut&quot; type=&quot;button&quot;&gt;A&lt;/button&gt;
-&lt;button aria-label=&quot;Yazıyı Büyüt&quot; class=&quot;btn-font-resizer&quot; data-size=&quot;large&quot; title=&quot;Yazıyı Büyüt&quot; type=&quot;button&quot;&gt;A+&lt;/button&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Duyuru İçeriği --&gt;
-&lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kamuoyu görüşüne sunulan Pharmeurope 38.4 taslak metinleri arasında yer alan “1034 Paraffin, hard” ve “2399 Microcrystalline wax” metinlerinde kullanıcılar ve üreticiler yapılan metot değişikliğinde tercihleri hususunda geri bildirim yapmaya davet edilmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Kullanıcılar, EDQM web sitesi Pharmeuropa portalı (&lt;a href=&quot;https://pharmeuropa.edqm.eu/home&quot; style=&quot;background-color: rgb(255, 255, 255);&quot; target=&quot;_blank&quot;&gt;https://pharmeuropa.edqm.eu/home&lt;/a&gt;) üzerinden ücretsiz kayıt yaparak Pharmeuropa metinlerine erişim sağlayabilir.&lt;/p&gt;&lt;p&gt;Ülkemiz Avrupa Farmakopesi üye devletleri arasında yer aldığından, yorumların Ulusal Farmakope Otoritesi (Türkiye İlaç ve Tıbbi Cihaz Kurumu, Farmakope Birimi) aracılığıyla gönderilmesi gerekmektedir. Geri bildirimler için son tarih 30 Aralık 2026 olarak belirtilmiştir ancak Ulusal Otorite tarafından gerekli değerlendirme ve düzenlemelerin yapılabilmesi için görüş bildirimlerinizi mümkün olan en erken tarihte iletmeniz önerilmektedir.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
-&lt;!-- Ek Dokümanlar Tablosu --&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Dosya: GMP Sertifikası Verilen Firma Duyuru Listesi 22.10 2026_28e23782-6737-4792-8ac4-adfbfac86902.xlsx</title>
-      <link>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 22.10 2026_28e23782-6737-4792-8ac4-adfbfac86902.xlsx</link>
-      <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 22.10 2026_28e23782-6737-4792-8ac4-adfbfac86902.xlsx</guid>
-      <pubDate>Fri, 30 Oct 2026 15:42:15 +0000</pubDate>
-      <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/GMP Sertifikası Verilen Firma Duyuru Listesi 22.10 2026_28e23782-6737-4792-8ac4-adfbfac86902.xlsx'&gt;GMP Sertifikası Verilen Firma Duyuru Listesi 22.10 2026_28e23782-6737-4792-8ac4-adfbfac86902.xlsx&lt;/a&gt;</description>
+      <title>Dosya: Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</title>
+      <link>https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</link>
+      <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</guid>
+      <pubDate>Fri, 30 Oct 2026 20:32:25 +0000</pubDate>
+      <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx'&gt;Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
 </rss>
