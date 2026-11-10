@@ -4,7 +4,7 @@
     <title>TİTCK Duyurular (otomatik)</title>
     <link>https://titck.gov.tr/duyuru?page=1</link>
     <description>T.C. Türkiye İlaç ve Tıbbi Cihaz Kurumu duyuruları (otomatik oluşturulmuş RSS)</description>
-    <lastBuildDate>Tue, 10 Nov 2026 07:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:15:00 +0000</lastBuildDate>
     <item>
       <title>FARMAKOVİJİLANS İRTİBAT NOKTALARININ DİKKATİNE</title>
       <link>https://titck.gov.tr/duyuru/farmakovijilans-irtibat-noktalarinin-dikkatine</link>
@@ -978,7 +978,7 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>İlgili Tüm Tarafların Dikkatine</title>
+      <title>Klinik Araştırma Tarafların Dikkatine</title>
       <link>https://titck.gov.tr/duyuru/ilgili-tum-taraflarin-dikkatine</link>
       <guid>https://titck.gov.tr/duyuru/ilgili-tum-taraflarin-dikkatine</guid>
       <description>&lt;div class=&quot;v2-content-section&quot;&gt;
@@ -1038,7 +1038,7 @@
 &lt;div class=&quot;v2-detail-card&quot; id=&quot;v2DetailCard&quot;&gt;
 &lt;!-- Detay Başlığı &amp; Altında Tarih/Birim/Okuma Süresi/Yazı Boyutu --&gt;
 &lt;div class=&quot;v2-detail-header&quot;&gt;
-&lt;h1 class=&quot;detail-title&quot;&gt;İlgili Tüm Tarafların Dikkatine&lt;/h1&gt;
+&lt;h1 class=&quot;detail-title&quot;&gt;Klinik Araştırma Tarafların Dikkatine&lt;/h1&gt;
 &lt;div class=&quot;d-flex align-items-center justify-content-between flex-wrap gap-2 pt-1&quot;&gt;
 &lt;div class=&quot;detail-meta d-flex align-items-center flex-wrap gap-2 mb-0&quot;&gt;
 &lt;span class=&quot;meta-pill&quot;&gt;
@@ -1064,7 +1064,7 @@
 &lt;/div&gt;
 &lt;!-- Duyuru İçeriği --&gt;
 &lt;div class=&quot;v2-detail-body&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Klinik Araştırmalar Modülünde başvuru süreçlerinde standardizasyonunun sağlanması, araştırma ürünlerine ilişkin bilgilerin tutarlı olarak sisteme girişinin sağlanması ve veri izlenebilirliğinin artırılması amacıyla yeni bir düzenleme yapılacaktır. Bu kapsamda, Dünya Sağlık Örgütü “WHO Drug List” esas alınarak oluşturulan araştırma ürün listesi Klinik Araştırmalar Modülüne eklenecek olup araştırma başvurularında kullanılan ürünlerin söz konusu listeden seçilerek sisteme kaydedilmesi sağlanacaktır. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;06.11.2026 tarihi itibariyle yeni yapılacak başvurular için araştırma ürünlerinin söz konusu listeden seçilerek sisteme girilmesi gerekmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kurum tarafından onaylı klinik araştırmalarda veri güncellenmesi için ilgili destekleyici veya destekleyicinin yasal temsilcisine 15 günlük süre ile (22.11.2026 tarihine kadar) Kuruma herhangi bir başvuru yapılmasına gerek olmaksızın araştırma ürünü alanının düzenlenebileceği geçici bir yetki tanımlanacaktır. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kurum tarafından onaylı klinik araştırmalarda veri güncellenmesi yapılmamış ise ilgili destekleyici veya destekleyicinin yasal temsilcisi tarafından önemli değişiklik başvurusu yapılarak güncelleme yapılması gerekecektir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Bundan sonraki süreçte, araştırma ürün listesinde yer almayan ürünler için ilgili destekleyici veya destekleyicinin yasal temsilcisinin taleplerini udbinfo@titck.gov.tr  e-posta adresine iletmesi gerekmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;İlgililere önemle duyurulur.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Klinik Araştırmalar Modülünde başvuru süreçlerinde standardizasyonunun sağlanması, araştırma ürünlerine ilişkin bilgilerin tutarlı olarak sisteme girişinin sağlanması ve veri izlenebilirliğinin artırılması amacıyla yeni bir düzenleme yapılacaktır. Bu kapsamda, Dünya Sağlık Örgütü (DSÖ) WHO Drug global ilaç listesi esas alınarak oluşturulan araştırma ürün listesi Klinik Araştırmalar Modülüne eklenecek olup araştırma başvurularında kullanılan ürünlerin söz konusu listeden seçilerek sisteme kaydedilmesi sağlanacaktır. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;06.11.2026 tarihi itibariyle yeni yapılacak başvurular için araştırma ürünlerinin söz konusu listeden seçilerek sisteme girilmesi gerekmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Kurum tarafından onaylı klinik araştırmalarda veri güncellenmesi için ilgili destekleyici veya destekleyicinin yasal temsilcisine 15 günlük süre ile Kuruma herhangi bir başvuru yapmadan araştırma ürünü alanının düzenlenebileceği geçici bir yetki tanımlanacaktır. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Uygunluk süreci devam eden henüz Kurum onayı almamış klinik araştırmalar için ise bu güncelleme Klinik Araştırmalar Dairesi tarafınca yapılacaktır. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Geçiş süresinin tamamlanmasının ardından, Kurum tarafından onaylı klinik araştırmalarda veri güncellenmesi yapılmamış ise ilgili destekleyici veya destekleyicinin yasal temsilcisi tarafından önemli değişiklik başvuru yapılarak güncelleme yapılması gerekecektir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Bundan sonraki süreçte, araştırma ürün listesinde yer almayan ürünler için ilgili destekleyici veya destekleyicinin yasal temsilcisinin taleplerini udbinfo@titck.gov.tr  e-posta adresine iletmesi gerekmektedir.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;İlgililere önemle duyurulur.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- Resim Galerisi (SimpleLightbox Slayt Destekli) --&gt;
@@ -3022,7 +3022,7 @@
       <title>Dosya: Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</title>
       <link>https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</link>
       <guid>https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx</guid>
-      <pubDate>Tue, 10 Nov 2026 07:05:39 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 16:15:00 +0000</pubDate>
       <description>Bu duyuru bir dosya bağlantısıdır: &lt;a href='https://titck.gov.tr/storage/Archive/2026/contentFile/Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx'&gt;Kopya GMP Sertifikası Verilen Firma Duyuru Listesi 30.10 2026 (1)_8aa88e15-2475-4d90-a76e-3e5a3d4a66a0.xlsx&lt;/a&gt;</description>
     </item>
   </channel>
